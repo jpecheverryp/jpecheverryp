@@ -1,7 +1,7 @@
-# Hi there!! - Hola que tal!! 👋
+# Hi There! 👋
 My name is Juan P Echeverry (he/him), I am a software developer/ full stack developer. 
 
-Colombian 🇨🇴 living in Atlanta 🇺🇸.
+
 
 I love building web applications.
 You can see my [portfolio here](https://juanpecheverry.com)
