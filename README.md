@@ -15,6 +15,7 @@ You can see my [portfolio here](https://juanpecheverry.com)
 - NodeJS
 - MySQL
 - MongoDB
+- Sequelize
 
 You can connect with me via:
 - My e-mail: [jpecheverryp@gmail.com](mailto:jpecheverryp@gmail.com)
