@@ -3,7 +3,7 @@
 [![Website Badge](https://img.shields.io/badge/-Website-blueviolet?logo=googlechrome&logoColor=white)](https://juanpecheverry.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/jpe04/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?logo=twitter&logoColor=white)](https://twitter.com/JpechDev)
-[![Email Badge](https://img.shields.io/badge/-Email-white?logo=gmail&logoColor=red)](https://twitter.com/JpechDev)
+[![Email Badge](https://img.shields.io/badge/-Email-white?logo=gmail&logoColor=red)](mailto:jpecheverryp@gmail.com)
 
 <h2>I am a Software Developer</h2>
 
