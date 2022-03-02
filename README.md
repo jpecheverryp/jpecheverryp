@@ -2,7 +2,6 @@
 
 [![Website Badge](https://img.shields.io/badge/-Website-blueviolet?logo=googlechrome&logoColor=white)](https://juanpecheverry.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/jpe04/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?logo=twitter&logoColor=white)](https://twitter.com/JpechDev)
 [![Email Badge](https://img.shields.io/badge/-Email-white?logo=gmail&logoColor=red)](mailto:jpecheverryp@gmail.com)
 
 <h2>I am a Software Developer</h2>
@@ -10,7 +9,7 @@
 Here are some facts about me:
 
 - I am currently working on an [e-commerce site](https://github.com/jpecheverryp/ecomm)
-- I am looking fo a full stack or front end position
+- I am looking for a full stack or front end position
 - I am learning Chakra UI 
 - My pronouns are (He/Him)
 - My favorite sport is rock climbing
