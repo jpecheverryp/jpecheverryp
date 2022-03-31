@@ -8,7 +8,6 @@
 
 Here are some facts about me:
 
-- I am currently working on an [e-commerce site](https://github.com/jpecheverryp/ecomm)
 - I am looking for a full stack or front end position
 - I am learning Chakra UI 
 - My pronouns are (He/Him)
