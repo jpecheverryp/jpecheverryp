@@ -4,18 +4,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/jpe04/)
 [![Email Badge](https://img.shields.io/badge/-Email-white?logo=gmail&logoColor=red)](mailto:jpecheverryp@gmail.com)
 
-<h2>I am a Software Developer</h2>
-
-Here are some facts about me:
-
-- I am looking for a full stack or front end position
-- I am learning Chakra UI 
-- My pronouns are (He/Him)
-- My favorite sport is rock climbing
+<h2>I am a Frontend Developer</h2>
 
 ## Tech Stack:
 
 - HTML5 - CSS3 - JavaScript ES6+ - TypeScript
+- SASS - ChakraUI - TailwindCSS
 - ReactJS - NextJS
 - VueJS - NuxtJS
 - NodeJS - Express
