@@ -13,11 +13,16 @@ Here are some facts about me:
 - My pronouns are (He/Him)
 - My favorite sport is rock climbing
 
-## Technologies I like to use:
+## Tech Stack:
 
-- HTML5 - CSS3 - JavaScript ES6+
-- TypeScript - ReactJS - NodeJS
-- MySQL - MongoDB - Sequelize
+- HTML5 - CSS3 - JavaScript ES6+ - TypeScript
+- ReactJS - NextJS
+- VueJS - NuxtJS
+- NodeJS - Express
+- MySQL - Sequelize
+- MongoDB - Moongose
+
+<hr />
 <p align=center> <image src='https://github-readme-stats.vercel.app/api?username=jpecheverryp&theme=dracula' alt= "Jpecheverryp's GitHub stats" />
 </p>
 <!--
