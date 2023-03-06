@@ -1,34 +1,33 @@
-# Hi There! I am Juan P Echeverry
+# Hey there!
+I am a Javascript developer curious about both frontend and backend technologies.
+
+I graduated from the Georgia Institute of Technology Coding Bootcamp, where I learned how to develop websites using different technologies, such as the MERN stack.
+
+I am actively looking for a frontend, backend or full-stack position developing mainly with JavaScript or TypeScript.
+
+I am looking for job opportunities in software development.
+
+I am fluent with:
+- HTML5
+- CSS3
+- JavaScript ES6+
+- React.js
+- Next.js
+- Node.js
+- TypeScript
+- Express
+- Rest APIs
+- SQL
+- NoSQL (MongoDB)
+
+I have also tried other technologies such as:
+- TailwindCSS
+- ChakraUI
+- Python
+- JWT
+
+I am also interested in learning new technologies such as Go (Programming language), and Neovim (Terminal based Text Editor)
 
 [![Website Badge](https://img.shields.io/badge/-Website-blueviolet?logo=googlechrome&logoColor=white)](https://juanpecheverry.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/jpe04/)
 [![Email Badge](https://img.shields.io/badge/-Email-white?logo=gmail&logoColor=red)](mailto:jpecheverryp@gmail.com)
-
-<h2>I am a Frontend Developer</h2>
-
-## Tech Stack:
-
-- HTML5 - CSS3 - JavaScript ES6+ - TypeScript
-- SASS - ChakraUI - TailwindCSS
-- ReactJS - NextJS
-- VueJS - NuxtJS
-- NodeJS - Express
-- MySQL - Sequelize
-- MongoDB - Moongose
-
-<hr />
-<p align=center> <image src='https://github-readme-stats.vercel.app/api?username=jpecheverryp&theme=dracula' alt= "Jpecheverryp's GitHub stats" />
-</p>
-<!--
-**jpecheverryp/jpecheverryp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
