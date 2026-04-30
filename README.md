@@ -1,20 +1,17 @@
 # Hey there!
-I am a Software Developer who loves working with web technologies.
+I'm a full-stack software developer with a focus on Go and modern web technologies.
 
-I completed the Full Stack Web Development from the Georgia Institute of Technology, where I learned how to develop websites using various technologies, such as the MERN stack.
-
-I am looking for job opportunities in software development.
+I'm currently open to backend and full-stack opportunities.
 
 ## Technologies and Languages
-- HTML/CSS/JS
-- TypeScript
-- Golang
-- React/Next
-- Vue/Nuxt
+- Go
+- TypeScript / JavaScript
+- HTML / CSS / TailwindCSS
+- React, Svelte, Astro
 - Node.js
 - REST APIs
-- SQL (MySQL, PostreSQL, SQLite)
-- NoSQL (MongoDB)
+- PostgreSQL, MySQL, SQLite
+- Docker
 
 [![Website Badge](https://img.shields.io/badge/-Website-blueviolet?logo=googlechrome&logoColor=white)](https://jpech.dev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/jpechdev/)
